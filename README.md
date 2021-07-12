@@ -3,7 +3,7 @@
 
 ## 🧪 Tecnologia
 
-Esse projeto foi desenvolvido com as seguinte tecnologia:
+Esse projeto foi desenvolvido com a seguinte tecnologia:
 
 - [JavaScript]
 
@@ -24,7 +24,7 @@ $ npm
 # Iniciar o projeto
 $ npm start
 ```
-O app estará disponível no seu browser pelo endereço http://localhost:3000.
+O app estará disponível no seu browser pelo endereço
 
 ## 💻 Projeto
 
