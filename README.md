@@ -1,9 +1,5 @@
 # biblioteca
-Projeto criado no Módulo de Javascript Intermediário | Programa HIRING CODERS#2
-
-<h1 align="center">
-  <Projeto criado no Módulo de Javascript Intermediário | Programa HIRING CODERS#2" width="160px">
-</h1>
+## Projeto criado no Módulo de Javascript Intermediário | Programa HIRING CODERS#2
 
 ## 🧪 Tecnologia
 
