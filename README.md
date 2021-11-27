@@ -26,7 +26,7 @@ $ npm start
 
 Biblioteca - Escolha entre várias categorias uma lista de livros de forma ordenada. 
 
-Este é um projeto desenvolvido durante o Módulo de JavaScript Intermediário pela professora Simara Conceição, do programa de bolsas Hiring Coders #2, em parceira com a Gama Academy e VTEX.
+Este é um projeto desenvolvido durante o Módulo de JavaScript Intermediário do programa de bolsas Hiring Coders #2, em parceira com a Gama Academy e VTEX.
 
 
 Feito com 💜 by Clepson Fonseca 👋🏻 
